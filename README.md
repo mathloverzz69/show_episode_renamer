@@ -11,7 +11,7 @@
 
 ## Running with Jupyter Notebook
 
-You can simly run the **Show Episode Renamer** using the provided Jupyter Notebook: `run_file_renamer.ipynb`. Just follow the provided comments.
+You can simply run the **Show Episode Renamer** using the provided Jupyter Notebook: `run_file_renamer.ipynb`. Just follow the provided comments.
 
 ## Example Output
 
