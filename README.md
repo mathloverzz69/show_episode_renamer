@@ -7,7 +7,11 @@
 - **Uniform Naming**: Detects episode patterns and renames them to a consistent format like `S01E01_Title`.
 - **Season Folders**: Automatically organizes episodes into season-specific folders (e.g., `S01/`, `S02/`).
 - **Supports Multiple Patterns**: Handles various episode naming schemes, such as `S01E01`, `1x02`, and `3e5`.
-- **Customizable Filenames**: Optionally integrates episode titles scraped from Wikipedia page.  
+- **Customizable Filenames**: Optionally integrates episode titles scraped from Wikipedia page.
+
+## Running with Jupyter Notebook
+
+You can simly run the **Show Episode Renamer** using the provided Jupyter Notebook: `run_file_renamer.ipynb`. Just follow the provided comments.
 
 ## Example Output
 
